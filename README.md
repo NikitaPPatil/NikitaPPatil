@@ -6,13 +6,14 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Nikita Patil <br>
+  <br> I'm Nikita Patil😄 <br>
  </abc>
 </h2> 
 
 <h2 align="center">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Business Data Analyst , currently exploring data projects
+- :woman_student: Graduate student with a **Master's degree in Information Systems**
+- :computer: I'm a **Business Data Analyst** , currently exploring data projects
 - :hourglass_flowing_sand: Exploring Google Cloud to enhance my skills in cloud computing and 
   data management
 - :rocket: Always ready to collaborate on development experiments and data-driven projects
