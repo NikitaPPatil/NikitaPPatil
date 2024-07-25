@@ -10,6 +10,7 @@
  </abc>
 </h2> 
 
+
 <h2 align="center">👨🏻‍💻 About Me:</h2>
 
 - :woman_student: Graduate student with a **Master's degree in Information Systems**
@@ -41,10 +42,30 @@ Cloud: AWS, GCP <br>
 IDEs: Anaconda, Jupyter Notebook, Visual Studio <br>
 </p>
 
-
+<hr>
 <h2  align="center">:heart:Let's get connected</h2>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/nikita-patil2208/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a target="_blank"href="https://www.linkedin.com/in/nikita-patil2208/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:niki.patil2208@gmail.com?subject=Hello"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+<hr>
+<h2  align="center">:heart:My GitHub Summary</h2>
+<p align="center">
+
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaPPatil" alt="NikitaPPatil" /></p>
+<br>
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NikitaPPatil&show_icons=true&locale=en&layout=compact" alt="NikitaPPatil" /></p>
+<p align=right>
+
+<img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=NikitaPPatil&repo=github-visitors-badge&countColor=%237B1E"/>
+<img height="25" src="https://komarev.com/ghpvc/?username=NikitaPPatil&color=green&style=for-the-badge"/>
+
+</a>
+</p>
+
+<br>
+ 
+ 
 
