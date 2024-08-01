@@ -11,7 +11,7 @@
 </h2> 
 
 
-<h2 align="center">👨🏻‍💻 About Me:</h2>
+<h2 align="center">👨🏻‍💻 About Me</h2>
 
 - :woman_student: Graduate student with a **Master's degree in Information Systems**
 - :computer: I'm a **Business Data Analyst** , currently exploring data projects
