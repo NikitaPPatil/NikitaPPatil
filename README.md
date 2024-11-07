@@ -19,7 +19,8 @@
   data management
 - :rocket: Always ready to collaborate on development experiments and data-driven projects
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact: I am constantly seeking to expand my networks and connect with like-minded professionals.<br>
+- :zap: Fun fact: I am constantly seeking to expand my networks and connect with like-minded professionals.
+- :link: Portfolio: https://nikitappatil.github.io/Portfolio/<br>
 
 <hr>
 
